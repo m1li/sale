@@ -1,0 +1,13 @@
+/*
+Theme Name: Venda
+Author: Semcore
+Version: 1.0
+Description: A child theme of Divi
+Template: Divi
+*/
+
+@import url("style-1.css");
+
+#main-header {
+    /*background-color: #F8EFF3;*/
+}
